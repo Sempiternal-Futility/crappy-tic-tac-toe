@@ -12,3 +12,5 @@ you place your circle/X with
 "n", "m", ","
                              
                               
+
+if you want to play this bad boy, open the shell of your os, cd to the game's directory, and "dotnet run", if you have .net 6 runtime installed, you good
