@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Threading;
 
-//FIX Winning and Losing checks failing/misreporting
-
 class Program
 {
 
