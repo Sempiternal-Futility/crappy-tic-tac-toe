@@ -13,4 +13,4 @@ you place your circle/X with
                              
                               
 
-if you want to play this bad boy, open the shell of your os, cd to the game's directory, and "dotnet run", if you have .net 6 runtime installed, you good
+if you want to play this bad boy, open the shell of your os, cd to the game's directory (tic-tac-toe), and "dotnet run", if you have .net 6 runtime installed, you good
